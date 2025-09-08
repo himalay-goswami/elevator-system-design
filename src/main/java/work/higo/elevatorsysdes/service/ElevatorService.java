@@ -1,4 +1,4 @@
-package work.higo.service;
+package work.higo.elevatorsysdes.service;
 
 public interface ElevatorService {
 

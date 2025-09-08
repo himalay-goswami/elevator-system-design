@@ -1,6 +1,6 @@
-package work.higo.service.impl;
+package work.higo.elevatorsysdes.service.impl;
 
-import work.higo.service.ElevatorService;
+import work.higo.elevatorsysdes.service.ElevatorService;
 
 public class BasicElevatorService implements ElevatorService {
 

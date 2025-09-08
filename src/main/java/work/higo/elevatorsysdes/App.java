@@ -1,4 +1,4 @@
-package work.higo;
+package work.higo.elevatorsysdes;
 
 public class App {
 	public static void main(String[] args) {

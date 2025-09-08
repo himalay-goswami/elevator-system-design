@@ -1,4 +1,4 @@
-package work.higo.model;
+package work.higo.elevatorsysdes.model;
 
 // can we convert this class into a record?
 public class Floor {

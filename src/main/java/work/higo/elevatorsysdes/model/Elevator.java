@@ -1,4 +1,4 @@
-package work.higo.model;
+package work.higo.elevatorsysdes.model;
 
 import lombok.Getter;
 import lombok.Setter;
