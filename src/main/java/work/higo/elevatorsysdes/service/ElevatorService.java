@@ -10,5 +10,5 @@ public interface ElevatorService {
 
   String status();
 
-  void initEmergency();
+  void initEmergencyMode();
 }

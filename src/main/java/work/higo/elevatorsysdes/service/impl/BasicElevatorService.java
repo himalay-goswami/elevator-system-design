@@ -10,7 +10,9 @@ public class BasicElevatorService implements ElevatorService {
 
   @Override
   public void callElevator(int floor, int direction) {
-
+      // check which elevator is free and closest to the floor
+        // send the elevator to that floor
+    // add a request to the queue
   }
 
   @Override
@@ -29,7 +31,7 @@ public class BasicElevatorService implements ElevatorService {
   }
 
   @Override
-  public void initEmergency() {
-    // TODO initiate emergency protocol
+  public void initEmergencyMode() {
+
   }
 }
